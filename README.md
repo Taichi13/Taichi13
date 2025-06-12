@@ -7,7 +7,7 @@
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
   </div>
-<br><br><br>
+<br><br>
 
 # First-year master's student at Kanazawa Institute of Technology
 ### 22 years old

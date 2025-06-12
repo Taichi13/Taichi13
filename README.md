@@ -3,7 +3,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,oracle,github,vscode,docker,slack,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sκlearn,github,git,vscode,docker,notion,discord,email" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.

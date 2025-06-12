@@ -23,7 +23,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=django,typescript,mysql,androidstudio,azure" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=django,typescript,mysql,java,androidstudio,azure" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->

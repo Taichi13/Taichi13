@@ -1,16 +1,16 @@
 # First-year master's student at Kanazawa Institute of Technology
-### 22 years old 
+### 22 years old
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,github,git,vscode,docker,notion,discord,email" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sklearn,github,git,vscode,docker,notion,discord,instagram,gmail" /> <br /><br />
 
   ※Another skill and tools
   Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=django,typescript,mysql" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->

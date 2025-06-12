@@ -14,10 +14,10 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,github,git,vscode,docker,notion,discord,instagram,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sklearn,vscode,docker,ubuntu,github,git,notion,discord,instagram,gmail" /> <br /><br />
 
   ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  Parlant, OracleSQL, Jupyter, Elastic, CloudBox,  and so on.
   
 # NOW TRAINING
 

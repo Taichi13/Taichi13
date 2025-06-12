@@ -13,9 +13,6 @@
 ### 22 years old
 ### Feel free to contact me anytime!👍
 
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taichi13&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,vscode,docker,ubuntu,github,git,notion,discord,instagram,gmail" /> <br /><br />

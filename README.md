@@ -17,6 +17,7 @@
 <img src="https://skillicons.dev/icons?i=python,sklearn,vscode,docker,ubuntu,github,git,notion,discord,instagram,gmail" /> <br /><br />
 
   ※Another skill and tools
+  
   Parlant, OracleSQL, Jupyter, Elastic, CloudBox,  and so on.
   
 # NOW TRAINING

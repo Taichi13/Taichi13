@@ -15,7 +15,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=python,sklearn,vscode,docker,ubuntu,github,git,notion,discord,instagram,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,github,git,apple,windows,notion,discord,gmail" /> <br /><br />
 
   ### ※Another skill and tools
   
@@ -23,7 +23,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=django,typescript,mysql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=django,typescript,mysql,androidstudio,azure" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->

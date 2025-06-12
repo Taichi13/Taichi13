@@ -11,7 +11,7 @@
 
 # First-year master's student at Kanazawa Institute of Technology
 ### 22 years old
-### Feel free to contact me anytime!👍
+#### Feel free to contact me anytime!👍
 
 # My Skill (Programming Languages, Frameworks and Tools)
 

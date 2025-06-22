@@ -19,7 +19,7 @@
 
   ### ※Another skill and tools
   
-  ### Parlant, OracleSQL, Jupyter, Elastic Cloud, Box, slack and so on.<br /><br />
+  ### Parlant, Streamlit, OracleSQL, Jupyter, Elastic Cloud, Box, slack and so on.<br /><br />
   
 # NOW TRAINING
 

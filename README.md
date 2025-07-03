@@ -13,6 +13,10 @@
 ### 22 years old
 #### Feel free to contact me anytime!👍<br /><br />
 
+# Competition
+- 第２回NEXCO東日本 渋滞予測チャレンジコンテスト🥉（61st out of 180）
+- SMBC Group GREEN×DATA Challenge 2025 for Recruiting（31st out of 1,071）
+
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,github,git,apple,windows,notion,discord,gmail" /> <br /><br />

@@ -14,8 +14,8 @@
 #### Feel free to contact me anytime!👍<br /><br />
 
 # Competition
-- 第２回NEXCO東日本 渋滞予測チャレンジコンテスト🥉（61st out of 180）
-- SMBC Group GREEN×DATA Challenge 2025 for Recruiting（31st out of 1,071）
+- [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）
+- [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://signate.jp/competitions/1634/leaderboard)（31st out of 1,071）
 
 # My Skill (Programming Languages, Frameworks and Tools)
 

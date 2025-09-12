@@ -17,18 +17,18 @@
 - [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）
 - [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://signate.jp/competitions/1634/leaderboard)（31st out of 1,071）
 
+# Certification
+- `基本情報技術者試験`（2023年12月）
+- `統計検定2級`（2025年9月）
+
 # My Skill (Programming Languages, Frameworks and Tools)
-
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,github,git,apple,windows,notion,discord,gmail" /> <br /><br />
-- 基本情報技術者試験　合格
-- 統計検定2級　合格
+### ※Another skill and tools
+`Parlant`, `Streamlit`, `OracleSQL`, `Jupyter`, `Elastic` `Cloud`, `Box`, `slack` and so on.
 
-  ### ※Another skill and tools
-  
-  ### Parlant, Streamlit, OracleSQL, Jupyter, Elastic Cloud, Box, slack and so on.<br /><br />
+
   
 # NOW TRAINING
-
 <img src="https://skillicons.dev/icons?i=typescript,mysql,java,androidstudio,azure" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->

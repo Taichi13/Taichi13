@@ -20,6 +20,8 @@
 # My Skill (Programming Languages, Frameworks and Tools)
 
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,github,git,apple,windows,notion,discord,gmail" /> <br /><br />
+- 基本情報技術者試験　合格
+- 統計検定2級　合格
 
   ### ※Another skill and tools
   
@@ -28,8 +30,6 @@
 # NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=typescript,mysql,java,androidstudio,azure" /> <br /><br />
-
- ### Statistics Test Level 2
 
 <!-- --------------------------------- :) ---------------------------------- -->
 

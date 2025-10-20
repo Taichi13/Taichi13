@@ -21,6 +21,9 @@
 - `基本情報技術者試験`（2023年12月）
 - `統計検定2級`（2025年9月）
 
+# Education / Program
+- 東京大学 Global Consumer Intelligence（GCI）Program 修了（2024年8月）
+
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,github,git,apple,windows,notion,discord,gmail" /> <br /><br />
 ### ※Another skill and tools

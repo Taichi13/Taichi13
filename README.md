@@ -26,7 +26,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,git,github,apple,windows,notion,discord,gmail" /> <br /><br />
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,ollama,oracle,jupyter,elasticsearch,chatgpt,gemini,slack,powerpoint,word,excel,yew&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,ollama,oracle,jupyter,elasticsearch,chatgpt,gemini,slack,powerpoint,word,excel,teams&titles=true)
 ### ※Another skill and tools
 `Parlant`, `Box`and so on.
 

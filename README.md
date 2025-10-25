@@ -28,7 +28,7 @@
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,git,github,apple,windows,notion,discord,gmail" /> <br /><br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,ollama,oracle,jupyter,elasticsearch,chatgpt,gemini,slack,yew&titles=true)
 ### ※Another skill and tools
-`Parlant`, `Streamlit`, `OracleSQL`, `Box`and so on.
+`Parlant`, `Box`and so on.
 
 <!-- --------------------------------- :) ---------------------------------- -->
 

@@ -25,14 +25,10 @@
 - `東京大学 Global Consumer Intelligence（GCI）Program 修了`（2024年8月）
 
 # My Skill (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,github,git,apple,windows,notion,discord,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,git,github,apple,windows,notion,discord,gmail" /> <br /><br />
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,ollama,oracle,jupyter,elasticsearch,chatgpt,gemini,slack,yew&titles=true)
 ### ※Another skill and tools
-`Parlant`, `Streamlit`, `OracleSQL`, `Jupyter`, `Elastic` `Cloud`, `Box`, `slack` and so on.
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
-  
-# NOW TRAINING
-<img src="https://skillicons.dev/icons?i=typescript,mysql,java,androidstudio,azure" /> <br /><br />
+`Parlant`, `Streamlit`, `OracleSQL`, `Box`and so on.
 
 <!-- --------------------------------- :) ---------------------------------- -->
 

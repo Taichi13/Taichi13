@@ -29,7 +29,7 @@
 ### ※Another skill and tools
 `Parlant`, `Streamlit`, `OracleSQL`, `Jupyter`, `Elastic` `Cloud`, `Box`, `slack` and so on.
 
-
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
   
 # NOW TRAINING
 <img src="https://skillicons.dev/icons?i=typescript,mysql,java,androidstudio,azure" /> <br /><br />

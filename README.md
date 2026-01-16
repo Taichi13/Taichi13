@@ -10,8 +10,6 @@
 <br><br>
 
 # First-year master's student at Kanazawa Institute of Technology
-### 22 years old
-#### Feel free to contact me anytime!👍<br /><br />
 
 # Competition
 - [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）

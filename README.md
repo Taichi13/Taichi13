@@ -22,7 +22,8 @@
 - `統計検定2級`（2025年9月）
 
 # Education / Program
-- `東京大学 Global Consumer Intelligence（GCI）Program 修了`（2024年8月）
+- `東京大学 グローバル消費インテリジェンス寄附講座 2024 Summer（GCI） 修了`（2024年8月）
+- `東京大学 集中講義 大規模言語モデル基礎編（GCI_大規模言語基礎）修了`（2025年12月）
 
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,git,github,apple,windows,notion,discord,gmail" /> <br /><br />

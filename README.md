@@ -9,7 +9,9 @@
   </div>
 <br><br>
 
-# First-year master's student at Kanazawa Institute of Technology
+# Self Introduction
+
+First-year master's student at Kanazawa Institute of Technology
 
 # Competition
 - [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）

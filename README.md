@@ -21,7 +21,7 @@ First-year master's student at Kanazawa Institute of Technology
 ### ※Another skill and tools
 `Parlant`, `Box`and so on.
 
-<!-- --------------------------------- :) ---------------------------------- -->
+<br><br>
 
 <div align="center">
     <h1>
@@ -31,8 +31,8 @@ First-year master's student at Kanazawa Institute of Technology
         <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
-  </div>
-<br><br>
+</div>
+
 
 
 

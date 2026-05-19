@@ -16,7 +16,7 @@ student at Kanazawa Institute of Technology
 - `東京大学 Deep Learning 基礎講座 2025 Automn（GCI_DeepLearning基礎）修了`（2026年1月）
 
 # My Skill (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,vscode,docker,ubuntu,bash,powershell,git,github,apple,windows,notion,discord,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,docker,ubuntu,bash,powershell,git,github,apple,windows,notion,discord,gmail" /> <br /><br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,ollama,oracle,jupyter,elasticsearch,chatgpt,gemini,slack,powerpoint,word,excel,teams&titles=true)
 ### ※Another skill and tools
 `Parlant`, `Box`and so on.

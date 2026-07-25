@@ -19,10 +19,10 @@ Interests: LLM applications / MLOps / data competitions
 - `東京大学 Deep Learning 基礎講座 2025 Autumn（GCI_DeepLearning基礎）修了`（2026年1月）
 
 # My Skill (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,docker,ubuntu,bash,powershell,git,github,githubactions,vscode,latex,apple,windows,notion,obsidian,discord,gmail&perline=10" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,docker,ubuntu,bash,powershell,git,github,githubactions,vscode,apple,windows,notion,obsidian,discord,gmail&perline=10" /> <br /><br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,jupyter,kaggle,oracle,elasticsearch,ollama,claude,chatgpt,gemini,huggingface,langchain,cursor,slack,powerpoint,word,excel,teams&titles=true&perline=10)
 ### ※Another skill and tools
-`Parlant`, `Box` and so on.
+`Parlant` and so on.
 
 <br><br>
 

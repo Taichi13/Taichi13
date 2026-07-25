@@ -9,10 +9,6 @@ Interests: LLM applications / MLOps / data competitions
 - [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）
 - [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://signate.jp/competitions/1634/leaderboard)（31st out of 1,071）
 
-# Featured Projects
-- [study-summarizer](https://github.com/Taichi13/study-summarizer) — Obsidian の日次学習メモから、日次サマリー・Anki 用 Q&A・週次/月次レポートを自動生成。Claude / Gemini / OpenAI を provider として切り替え可能。
-- [mini-llm-app](https://github.com/Taichi13/mini-llm-app) — ローカル LLM による音声対話システム。Ollama（qwen3:14b）+ faster-whisper（STT）+ VOICEVOX（TTS）を FastAPI + React で構成し、docker compose で起動。
-
 # Certification
 - `基本情報技術者試験`（2023年12月）
 - `統計検定2級`（2025年9月）

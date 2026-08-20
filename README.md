@@ -8,6 +8,7 @@ Interests: LLM applications / MLOps / data competitions
 # Competition
 - [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）
 - [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://signate.jp/competitions/1634/leaderboard)（31st out of 1,071）
+- [AI Immune System Challenge](https://bitgrit.com/competition/27)（4th out of 223）
 
 # Certification
 - `基本情報技術者試験`（2023年12月）

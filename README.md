@@ -6,9 +6,11 @@ Research: autonomous data-analysis agents (Text-to-SQL, local LLMs).
 Interests: LLM applications / MLOps / data competitions
 
 # Competition
-- [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard)🥉（61st out of 180）
-- [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://signate.jp/competitions/1634/leaderboard)（31st out of 1,071）
-- [AI Immune System Challenge](https://bitgrit.com/competition/27)（4th out of 223）
+| Competition | Result | Period |
+|---|---|---|
+| [第２回NEXCO東日本 渋滞予測チャレンジコンテスト](https://signate.jp/competitions/1299/leaderboard) 🥉 | 61st out of 180 | 2024-01-31 〜 2024-03-31 |
+| [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://signate.jp/competitions/1634/leaderboard) | 31st out of 1,071 | 2025-06-02 〜 2025-06-30 |
+| [AI Immune System Challenge](https://bitgrit.com/competition/27) | 4th out of 223 | 2026-04-01 〜 2026-06-30 |
 
 # Certification
 - `基本情報技術者試験`（2023年12月）

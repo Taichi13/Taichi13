@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=あなたのGitHubユーザー名&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Taichi13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 # Self Introduction

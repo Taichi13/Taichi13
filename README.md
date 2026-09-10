@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=Taichi13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 # Self Introduction
 
 Graduate student at Kanazawa Institute of Technology.<br />

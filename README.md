@@ -39,13 +39,3 @@ Interests: LLM applications / MLOps / data competitions
 # My Skill (Programming Languages, Frameworks and Tools)
 <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,fastapi,docker,ubuntu,bash,powershell,git,github,githubactions,vscode,apple,windows,notion,obsidian,discord,gmail&perline=10" /> <br /><br />
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,streamlit,jupyter,kaggle,oracle,elasticsearch,ollama,claude,chatgpt,gemini,huggingface,langchain,cursor,slack,powerpoint,word,excel,teams&titles=true&perline=10)
-### ※Another skill and tools
-`Parlant` and so on.
-
-<br><br>
-
-
-
-
-
-
